@@ -1,9 +1,16 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, the schedule of course topics, notes, problem sets,
+  and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 64cbbca9-7c80-3dbd-2d60-45a6a174c89f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -14,9 +21,9 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-*   [_18.100C Real Analysis_](/courses/18-100c-real-analysis-fall-2012/pages/index.htm)
-*   [_18.700 Linear Algebra_](/courses/18-700-linear-algebra-fall-2013/pages/index.htm)
-*   [_18.440 Probability and Random Variables_](/courses/18-440-probability-and-random-variables-spring-2014/pages/index.htm) _(Conditional Expectations, Random Vectors)_
+*   [_18.100C Real Analysis_](/courses/18-100c-real-analysis-fall-2012)
+*   [_18.700 Linear Algebra_](/courses/18-700-linear-algebra-fall-2013)
+*   [_18.440 Probability and Random Variables_](/courses/18-440-probability-and-random-variables-spring-2014) _(Conditional Expectations, Random Vectors)_
 *   _18.466 Mathematical Statistics_ _(Statistical Model, Exponential Families, Estimation, Confidence Intervals)_
 
 Course Description
@@ -36,7 +43,7 @@ Schedule
 Notes
 -----
 
-This course has no required or recommended textbooks but [notes]({{< baseurl >}}/pages/lecture-notes) are provided.
+This course has no required or recommended textbooks but {{% resource_link 2413817b-9bf9-ae7c-8d36-7e35bc7f62c4 "notes" %}} are provided.
 
 Problem Sets
 ------------
