@@ -6,6 +6,7 @@ file: /courses/18-s997-high-dimensional-statistics-spring-2015/7b8227a14aaa88c51
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This is a file that contains information regarding high-dimensional statistics problem set 2.
-
