@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding complete lecture notes.
-file: /courses/18-s997-high-dimensional-statistics-spring-2015/619e4ae252f1b26cbe0f7a29d5932978_MIT18_S997S15_CourseNotes.pdf
+file: /ol-ocw-studio-app/courses/18-s997-high-dimensional-statistics-spring-2015/619e4ae252f1b26cbe0f7a29d5932978_MIT18_S997S15_CourseNotes.pdf
 file_size: 1177319
 file_type: application/pdf
 learning_resource_types:
