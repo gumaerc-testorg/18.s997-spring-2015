@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a file that contains information regarding high-dimensional statistics
   problem set 1.
-file: /ol-ocw-studio-app/courses/18-s997-high-dimensional-statistics-spring-2015/aedae8ecc50403ef5af2d2438764993e_MIT18_S997S15_Assignment1.pdf
+file: /courses/18-s997-high-dimensional-statistics-spring-2015/aedae8ecc50403ef5af2d2438764993e_MIT18_S997S15_Assignment1.pdf
 file_size: 173191
 file_type: application/pdf
 learning_resource_types:
