@@ -2,7 +2,7 @@
 content_type: resource
 description: This is a file that contains information regarding high-dimensional statistics
   chapter 5.
-file: /ol-ocw-studio-app/courses/18-s997-high-dimensional-statistics-spring-2015/501374d1714bfd55ff6345189b9c2e26_MIT18_S997S15_Chapter5.pdf
+file: /courses/18-s997-high-dimensional-statistics-spring-2015/501374d1714bfd55ff6345189b9c2e26_MIT18_S997S15_Chapter5.pdf
 file_size: 237215
 file_type: application/pdf
 learning_resource_types:
