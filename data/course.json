@@ -26,7 +26,7 @@
     "website": "18-s997-high-dimensional-statistics-spring-2015"
   },
   "course_title": "High-Dimensional Statistics",
-  "course_description": "This course offers an introduction to the finite sample analysis of high- dimensional statistical methods. The goal is to present various proof techniques for state-of-the-art methods in regression, matrix estimation and principal component analysis (PCA) as well as optimality guarantees. The course ends with research questions that are currently open.\n\nYou can read more about Prof. Rigollet's work and courses [on his website](http://www-math.mit.edu/~rigollet/)\n",
+  "course_description": "This course offers an introduction to the finite sample analysis of high- dimensional statistical methods. The goal is to present various proof techniques for state-of-the-art methods in regression, matrix estimation and principal component analysis (PCA) as well as optimality guarantees. The course ends with research questions that are currently open.\n\nYou can read more about Prof. Rigollet's work and courses {{% resource_link \"315e1b9c-2246-4eda-9307-55598f07688f\" \"on his website\" %}}\n",
   "department_numbers": [
     "18"
   ],
